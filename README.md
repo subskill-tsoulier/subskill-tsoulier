@@ -1,9 +1,9 @@
 ###  :man_technologist:  [Théo SOULIER](https://onk0611.github.io/hello/)
 
 👋 Hi, I'm Théo SOULIER, I'm developper back at Subskill Digital 🚀. 
-<hr>
+<hr />
 [![WangNingkai's github stats](https://github-readme-stats.vercel.app/api?username=subskill-tsoulier&count_private=true&show_icons=true&theme=radical)](https://github.com/subskill-tsoulier)
-<hr>
+<hr />
 ### About
 
 -  **Learning :** Apprentice Developper back :zap:
@@ -12,7 +12,7 @@
 -  **Hobbies :** Hardware / Software 💻 & Music :headphones:
 -  **Contact me :** [Théo SOULIER](mailto:t.soulier@subskill.com)
 
-<hr>
+<hr />
 
 <h2>Languages and Tools</h2>
 
@@ -23,5 +23,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png"></code>
-<hr>
+<hr />
 ![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
