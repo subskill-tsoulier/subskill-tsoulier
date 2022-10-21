@@ -1,7 +1,7 @@
 ###  :man_technologist:  [Théo SOULIER](https://onk0611.github.io/hello/)
 
 👋 Hi, I'm Théo SOULIER, I'm developper back at Subskill Digital 🚀. 
-
+<hr>
 [![WangNingkai's github stats](https://github-readme-stats.vercel.app/api?username=subskill-tsoulier&count_private=true&show_icons=true&theme=radical)](https://github.com/subskill-tsoulier)
 <hr>
 ### About
@@ -13,7 +13,8 @@
 -  **Contact me :** [Théo SOULIER](mailto:t.soulier@subskill.com)
 
 <hr>
-### Languages and Tools
+
+<h2>Languages and Tools</h2>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
