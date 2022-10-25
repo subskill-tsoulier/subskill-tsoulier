@@ -13,7 +13,7 @@
 -  **Contact me :** [Théo SOULIER](mailto:t.soulier@subskill.com)
 
 <h2>Commit</h2>
-- 2022 : [See more](https://skyline.github.com/subskill-tsoulier/2022)
+- **2022 :** [See more](https://skyline.github.com/subskill-tsoulier/2022)
 
 <h2>Languages and Tools</h2>
 
